@@ -1,9 +1,10 @@
+import Todo from "./components/todo";
 
 function App() {
   const AppName = "SkyView";
   return (
     <>
-      <h1>Hello, {AppName}</h1>
+      <Todo />
     </>
   );
 }
