@@ -1,10 +1,9 @@
-import Todo from "./components/todo";
+import Temp from "./components/temp";
 
 function App() {
-  const AppName = "SkyView";
   return (
     <>
-      <Todo />
+      <Temp />
     </>
   );
 }
